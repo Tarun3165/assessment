@@ -66,7 +66,7 @@ export default function App() {
     },
     {
       headers:{
-        api_key : 'Z9Q7WKEY7ORGBUFGN3EG1QS5Y7FG8DU29GHKKSZH'
+        api_key : 'Z9Q7WKEY7ORGBUFGN3EG1QS5Y7FG8DU29GHKKSZH' 
       }
     })
     .then((res)=>{
